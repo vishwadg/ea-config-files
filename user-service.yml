@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:2222/ea-inclass-user-db
+    url:jdbc:postgresql://localhost:2222/ea-inclass-user-db
     username:postgres
     password:1
   jpa:
